@@ -1,0 +1,5 @@
+{
+    "plugins": [ ["transform-remove-console",
+     { "exclude": [  "warn"] }]  //i removed error because if i exclude error then i unable to see errors in console
+    ]
+}
